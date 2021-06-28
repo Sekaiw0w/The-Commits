@@ -7,11 +7,10 @@
 */
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
-    float num1, num2, sum=0; // Declares the variables
+    int num1, num2, sum=0; // Declares the variables
 
     printf("Enter two numbers \n"); // Prompts the user to enter two numbers
     scanf("%f", &num1); // Reads the variables
